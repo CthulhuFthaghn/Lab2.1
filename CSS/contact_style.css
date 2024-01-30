@@ -1,0 +1,14 @@
+fieldset{
+    
+    border-color: #61764B;
+    background-color: #CFB997;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 5%;
+    width: 400px;
+}
+
+input{
+    margin: 3px;
+    background-color: #9BA17B;
+}

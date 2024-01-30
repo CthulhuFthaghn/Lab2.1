@@ -1,0 +1,78 @@
+.sectionHead{
+	margin: 0px auto 0px auto;
+    width: 800px;
+	background-color: #CFB997;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    font-size: 20px;
+    align-items: center;
+    border: solid;
+    border-width: 5px;
+    border-color: black;
+    border-bottom: 0px;
+    border-radius: 10px 10px 0px 0px;
+}
+.photo{
+    height:160px;
+}
+.ISEN{
+    height: 160px;
+    border-top-right-radius: 10px;
+    
+}
+.package{
+    display: flex;
+}
+.compétences{
+    padding-left: 25px;
+}
+.gauche{
+    border-bottom-left-radius: 10px;
+    padding: 10px 10px 20px 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: #61764B;
+    gap: 20px;
+    width: 31%;
+    }
+.droite{
+    border-radius: 0px 0px 10px 0px;
+    padding: 10px 10px 20px 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: #9BA17B;
+    width: 80%;
+    gap: 20px;
+} 
+.experience{
+    display: block;
+    flex-wrap: wrap;
+    margin: 10px;}
+.job{
+    margin-left: 25px;
+}
+
+body {
+	padding: 0px;
+	margin: 0px;
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+	background-color: white;
+    
+}
+
+#enveloppe {
+    border-radius: 0px 0px 15px 15px;
+    width: 800px;
+    display: flex;
+	padding: 0px 0px 0px 0px;
+	margin: 0px auto 0px auto;
+    border: solid;
+    border-width: 5px;
+    border-color: black;
+    
+}
+
+div{font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;}
+
+p{font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;}
